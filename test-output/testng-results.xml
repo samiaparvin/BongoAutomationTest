@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="238294" started-at="2020-08-06T16:20:31Z" finished-at="2020-08-06T16:24:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="238294" started-at="2020-08-06T16:20:31Z" finished-at="2020-08-06T16:24:30Z">
+      <class name="Tests.HomePageTest">
+        <test-method status="PASS" signature="startBrowserTNG()[pri:0, instance:Tests.HomePageTest@38af9828]" name="startBrowserTNG" is-config="true" duration-ms="200856" started-at="2020-08-06T22:20:31Z" finished-at="2020-08-06T22:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowserTNG -->
+        <test-method status="PASS" signature="LocateVideoContentAndClick()[pri:1, instance:Tests.HomePageTest@38af9828]" name="LocateVideoContentAndClick" duration-ms="15614" started-at="2020-08-06T22:23:52Z" finished-at="2020-08-06T22:24:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocateVideoContentAndClick -->
+        <test-method status="PASS" signature="PlayLocatedVideoContent()[pri:2, instance:Tests.HomePageTest@38af9828]" name="PlayLocatedVideoContent" duration-ms="20485" started-at="2020-08-06T22:24:08Z" finished-at="2020-08-06T22:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlayLocatedVideoContent -->
+        <test-method status="PASS" signature="tearDownTNG()[pri:0, instance:Tests.HomePageTest@38af9828]" name="tearDownTNG" is-config="true" duration-ms="1311" started-at="2020-08-06T22:24:28Z" finished-at="2020-08-06T22:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTNG -->
+      </class> <!-- Tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
